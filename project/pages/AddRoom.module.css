@@ -1,0 +1,30 @@
+.all{
+    font-size: larger;
+    padding-top: 15%;
+    text-align: center;
+}
+
+.butt {
+    margin-top: 2%;
+    margin-left: 38%;
+    background-color: transparent;
+    color: #9f5ccc;
+    border: none;
+    padding: 0.15rem 1.5rem;
+    cursor: pointer;
+    font: inherit;
+    color: white;
+    background-color: #9f5ccc;
+    border: 1px solid #9f5ccc;
+    border-radius: 4px;
+    padding: 0.5rem 2.5rem;
+    margin-right: 37%;
+
+}
+  
+   .butt:hover {
+    background-color: transparent;
+    color: #ae82cc;
+    background-color:#9f5ccc;
+  }
+  

@@ -1,0 +1,15 @@
+  .bg_image{
+    background-image: url('./img1.jpg');
+    background-size: cover;
+    height: 85vh;
+    opacity: calc(0.35);
+    margin-bottom: 10%;
+  }
+
+  .header{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding-top: 22%;
+  }
+
+  
